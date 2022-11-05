@@ -1,4 +1,4 @@
-import Counter from "./components/MyCounter";
+import Counter from "./components/Counter";
 import MyGitHub from "./components/MyGitHub";
 
 function App() {
